@@ -10,4 +10,3 @@
     * Record System
 * The class inheritance diagram is shown below.
 ![image](ref/UML.jpeg)
-img[alt=image] { width: 200px; }
