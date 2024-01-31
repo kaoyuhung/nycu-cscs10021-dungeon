@@ -10,3 +10,17 @@
     * Record System
 * The class inheritance diagram is shown below.
 ![image](ref/UML.jpeg)
+
+## Build
+* Use Makefile to build the project.
+```
+make
+```
+
+## Run
+```
+./dungeon.out
+```
+
+
+
