@@ -8,4 +8,5 @@
     * Fighting System
     * NPC
     * Record System
-* The class inheritance diagram is shown [here](ref/UML.jpeg).
+* The class inheritance diagram is shown below.
+![alt text](ref/UML.jpeg)
