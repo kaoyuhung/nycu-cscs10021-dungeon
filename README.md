@@ -9,4 +9,4 @@
     * NPC
     * Record System
 * The class inheritance diagram is shown below.
-![alt text](ref/UML.jpeg)
+![image](ref/UML.jpeg)
