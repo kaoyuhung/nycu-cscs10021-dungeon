@@ -1,5 +1,5 @@
-# Object Oriented Programming Project: Dungeon
-* This project is implemented using C++ and is a text-based RPG with the player exploring a dungeon and fight against unknown monsters.
+# NYCU-CSCS10021 Data Structures and Object-oriented Programming Project: Dungeon
+* This project is implemented using C++ and is a text-based RPG with the player exploring a dungeon
 * The inheritance and the virtual functions are used in the implementation.
 * Basic Functions in the game
     * Movement 
